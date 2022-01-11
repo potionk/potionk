@@ -1,7 +1,7 @@
 #### :fire: Everyday is beginning :fire:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=potion)](https://solved.ac/potion)
 
-- 📫 How to reach me: potionkr@gmail.com
+- 📫 How to reach me: jongunkim.p@gmail.com
 
 <!--
 **potionk/potionk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
